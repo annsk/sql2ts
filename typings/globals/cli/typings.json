@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7c1a4fd51f78db4775b9fae8ae85a0b35901c7ee/cli/cli.d.ts",
+    "raw": "registry:dt/cli#0.11.2+20160319142606",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/7c1a4fd51f78db4775b9fae8ae85a0b35901c7ee/cli/cli.d.ts"
+  }
+}

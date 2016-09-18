@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "moduleResolution": "node"
+    }
+}

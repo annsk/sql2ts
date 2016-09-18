@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "cli": "registry:dt/cli#0.11.2+20160319142606",
+    "knex": "registry:dt/knex#0.0.0+20160819212955",
+    "node": "registry:dt/node#6.0.0+20160915134512",
+    "pluralize": "registry:dt/pluralize#0.0.0+20160316155526"
+  }
+}

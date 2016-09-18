@@ -1,0 +1,39 @@
+{
+  "name": "sql2ts",
+  "version": "1.0.0",
+  "description": "Create TypeScript interface from SQL schema",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annsk/sql2ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "mysql",
+    "sql",
+    "converter",
+    "interface",
+    "generator",
+    "ts"
+  ],
+  "author": "Artur Pelczar <annsk1a@gmail.com> (http://arturpelczar.pl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annsk/sql2ts/issues"
+  },
+  "homepage": "https://github.com/annsk/sql2ts#readme",
+  "devDependencies": {
+    "typescript": "^2.0.2"
+  },
+  "bin": {
+    "sql2ts": "./bin/bin"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "pascal-case": "^2.0.0",
+    "pluralize": "^3.0.0"
+  }
+}
